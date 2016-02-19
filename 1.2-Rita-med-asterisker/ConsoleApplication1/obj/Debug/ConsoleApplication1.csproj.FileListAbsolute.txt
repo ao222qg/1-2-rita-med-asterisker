@@ -1,0 +1,20 @@
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anton\Desktop\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Arbete\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Anton\Desktop\Arbete\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Anton\Desktop\Arbete\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Anton\Desktop\Arbete\C#\Labrationer och övningsuppgifter\1.2 Rita med asterisker\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
